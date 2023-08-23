@@ -1,6 +1,6 @@
 {
     "keyboard_name": "The Paintbrush",
-    "maintainer": "ardux",
+    "manufacturer": "ardux",
     "url": "https://github.com/arduxio/qmk-artsey",
     "usb": {
         "vid": "0x4653",
